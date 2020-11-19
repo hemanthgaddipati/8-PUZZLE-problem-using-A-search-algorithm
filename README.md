@@ -45,4 +45,3 @@ right angles. It is the sum of absolute values of differences between goal state
 coordinates and current state (l, m) coordinates respectively, i.e. |i - l|+ |j - m|
 
   ● Misplaced Tile: This calculates the number of misplaced tiles in any given state.
-
