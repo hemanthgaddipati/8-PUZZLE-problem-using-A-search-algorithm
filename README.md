@@ -43,5 +43,6 @@ functions that we considered for solving 8-puzzle problem are:
   ● Manhattan Distance: The distance between two tiles measured along the axes of
 right angles. It is the sum of absolute values of differences between goal state (i, j)
 coordinates and current state (l, m) coordinates respectively, i.e. |i - l|+ |j - m|
+
   ● Misplaced Tile: This calculates the number of misplaced tiles in any given state.
 
